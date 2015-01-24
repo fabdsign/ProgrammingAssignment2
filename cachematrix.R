@@ -1,4 +1,5 @@
-## The function makeCacheMatrix creates a special matrix object
+## The function makeCacheMatrix creates a special matrix object.
+## credits to lifelonglearner https://github.com/lifelonglearner
 
 
 ## The function sets and gets his inverse and can cache it
